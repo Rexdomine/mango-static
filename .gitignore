@@ -7,3 +7,5 @@
 node_modules/
 qa/
 BUILD-JOURNAL.md
+.vercel
+.env*
