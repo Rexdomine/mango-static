@@ -1,0 +1,9 @@
+.vercel/
+.sites-runtime/
+.env
+.env.*
+!.env.example
+.DS_Store
+node_modules/
+qa/
+BUILD-JOURNAL.md
